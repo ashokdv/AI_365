@@ -1,0 +1,152 @@
+{
+  "guideline_evaluations_3.0.2": [
+    {
+      "id": "dcebb8beb5c3a0e1cfc2d0954ae10e6b",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": false,
+          "customer_action": "",
+          "agent_action": ""
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    },
+    {
+      "id": "220497cac3d5db30e7213bb3a8bc54b3",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": true,
+          "customer_action": "The customer provides their savings target for the week.",
+          "agent_action": "The agent asks the customer for their savings target for the week."
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    },
+    {
+      "id": "9476cc313b97bcd96b9f690cb6f25886",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": true,
+          "customer_action": "The customer provides information on how much they have saved so far this week.",
+          "agent_action": "The agent asks the customer how much they have saved so far this week."
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    },
+    {
+      "id": "1293cc769e11783d28ce137272e88869",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": false,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": false,
+          "customer_action": "",
+          "agent_action": ""
+        },
+        "agent_intention_condition": null,
+        "internal_action": null
+      }
+    },
+    {
+      "id": "e867f70def0d36e9a01b2180db190db4",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": false,
+          "customer_action": "",
+          "agent_action": ""
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    },
+    {
+      "id": "1971465f1b717c9a35023d6f375d1bbd",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": true,
+          "customer_action": "The customer responds to whether they want a quick tip to get started",
+          "agent_action": "The agent asks if the customer wants a quick tip to get started"
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    },
+    {
+      "id": "9fa7b1454b3698b8b12fda4d0333b44f",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": true,
+          "customer_action": "The customer provides information about how much they have saved so far this week.",
+          "agent_action": "The agent asks the customer how much they have saved so far this week."
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    },
+    {
+      "id": "9cd57e94b67ed752daa3e63122c0a4bd",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": false,
+          "customer_action": "",
+          "agent_action": ""
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    },
+    {
+      "id": "6b4370da39444dc24a8e441f118b8d74",
+      "version": "3.0.2",
+      "properties": {
+        "continuous": null,
+        "customer_dependent_action_data": {
+          "is_customer_dependent": false,
+          "customer_action": "",
+          "agent_action": ""
+        },
+        "agent_intention_condition": null,
+        "internal_action": null,
+        "tool_running_only": false
+      }
+    }
+  ],
+  "journey_evaluations_3.0.2": [
+    {
+      "id": "85c84b3000343ad67f48655a84cf7865",
+      "version": "3.0.2",
+      "node_properties": {},
+      "edge_properties": {}
+    },
+    {
+      "id": "c1475eb68057054dd6bdd494c51a52d1",
+      "version": "3.0.2",
+      "node_properties": {},
+      "edge_properties": {}
+    }
+  ]
+}

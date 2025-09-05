@@ -1,0 +1,50 @@
+[2m2025-09-05T03:14:31.503000Z[0m [[32m[1minfo     [0m] [1m[<main>] Parlant server version 3.0.2[0m
+[2m2025-09-05T03:14:31.503479Z[0m [[32m[1minfo     [0m] [1m[<main>] Using home directory 'C:\Users\User\ashokdv\AI_365\day-04-fin-tracker\backend\parlant-data'[0m
+[2m2025-09-05T03:14:31.506411Z[0m [[32m[1minfo     [0m] [1m[<main>] No external modules selected[0m
+[2m2025-09-05T03:14:31.950240Z[0m [[32m[1minfo     [0m] [1m[<main>] Initialized OpenAIService[0m
+[2m2025-09-05T03:14:42.869013Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Cancelling all remaining tasks (1)[0m
+[2m2025-09-05T03:14:42.869438Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Shutting down[0m
+[2m2025-09-05T03:14:42.869993Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Waiting for task 'websocket-logger' to finish[0m
+[2m2025-09-05T03:15:06.685355Z[0m [[32m[1minfo     [0m] [1m[<main>] Parlant server version 3.0.2[0m
+[2m2025-09-05T03:15:06.685819Z[0m [[32m[1minfo     [0m] [1m[<main>] Using home directory 'C:\Users\User\ashokdv\AI_365\day-04-fin-tracker\backend\parlant-data'[0m
+[2m2025-09-05T03:15:06.688725Z[0m [[32m[1minfo     [0m] [1m[<main>] No external modules selected[0m
+[2m2025-09-05T03:15:07.028426Z[0m [[32m[1minfo     [0m] [1m[<main>] Initialized OpenAIService[0m
+[2m2025-09-05T03:15:18.015893Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Cancelling all remaining tasks (1)[0m
+[2m2025-09-05T03:15:18.016359Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Shutting down[0m
+[2m2025-09-05T03:15:18.016568Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Waiting for task 'websocket-logger' to finish[0m
+[2m2025-09-05T03:15:31.075291Z[0m [[32m[1minfo     [0m] [1m[<main>] Parlant server version 3.0.2[0m
+[2m2025-09-05T03:15:31.075690Z[0m [[32m[1minfo     [0m] [1m[<main>] Using home directory 'C:\Users\User\ashokdv\AI_365\day-04-fin-tracker\backend\parlant-data'[0m
+[2m2025-09-05T03:15:31.078935Z[0m [[32m[1minfo     [0m] [1m[<main>] No external modules selected[0m
+[2m2025-09-05T03:15:31.428764Z[0m [[32m[1minfo     [0m] [1m[<main>] Initialized OpenAIService[0m
+[2m2025-09-05T03:15:50.432715Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Cancelling all remaining tasks (6)[0m
+[2m2025-09-05T03:15:50.433136Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Shutting down[0m
+[2m2025-09-05T03:15:50.433326Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Waiting for task 'websocket-logger' to finish[0m
+[2m2025-09-05T03:18:16.701779Z[0m [[32m[1minfo     [0m] [1m[<main>] Parlant server version 3.0.2[0m
+[2m2025-09-05T03:18:16.702195Z[0m [[32m[1minfo     [0m] [1m[<main>] Using home directory 'C:\Users\User\ashokdv\AI_365\day-04-fin-tracker\backend\parlant-data'[0m
+[2m2025-09-05T03:18:16.705412Z[0m [[32m[1minfo     [0m] [1m[<main>] No external modules selected[0m
+[2m2025-09-05T03:18:17.052386Z[0m [[32m[1minfo     [0m] [1m[<main>] Initialized OpenAIService[0m
+[2m2025-09-05T03:18:28.231685Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Cancelling all remaining tasks (1)[0m
+[2m2025-09-05T03:18:28.232492Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Shutting down[0m
+[2m2025-09-05T03:18:28.232927Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Waiting for task 'websocket-logger' to finish[0m
+[2m2025-09-05T03:19:48.197109Z[0m [[32m[1minfo     [0m] [1m[<main>] Parlant server version 3.0.2[0m
+[2m2025-09-05T03:19:48.197456Z[0m [[32m[1minfo     [0m] [1m[<main>] Using home directory 'C:\Users\User\ashokdv\AI_365\day-04-fin-tracker\backend\parlant-data'[0m
+[2m2025-09-05T03:19:48.200592Z[0m [[32m[1minfo     [0m] [1m[<main>] No external modules selected[0m
+[2m2025-09-05T03:19:48.535566Z[0m [[32m[1minfo     [0m] [1m[<main>] Initialized OpenAIService[0m
+[2m2025-09-05T03:20:04.791319Z[0m [[32m[1minfo     [0m] [1m[<main>] .-----------------------------------------.[0m
+[2m2025-09-05T03:20:04.791802Z[0m [[32m[1minfo     [0m] [1m[<main>] | Server is ready for some serious action |[0m
+[2m2025-09-05T03:20:04.791934Z[0m [[32m[1minfo     [0m] [1m[<main>] '-----------------------------------------'[0m
+[2m2025-09-05T03:20:04.792068Z[0m [[32m[1minfo     [0m] [1m[<main>] Server authorization policy: development[0m
+[2m2025-09-05T03:20:04.792247Z[0m [[32m[1minfo     [0m] [1m[<main>] Try the Sandbox UI at http://localhost:8800[0m
+[2m2025-09-05T03:20:36.821618Z[0m [[32m[1minfo     [0m] [1m[RrhXKsWXy4c::process] Processing context for session WxgEiGV08V finished in 8.667 seconds[0m
+[2m2025-09-05T03:20:54.125106Z[0m [[32m[1minfo     [0m] [1m[RJOoSKF0PFv::process] Processing context for session WxgEiGV08V finished in 6.665 seconds[0m
+[2m2025-09-05T03:21:06.156230Z[0m [[32m[1minfo     [0m] [1m[Rrb2KxEJqt2::process] Processing context for session WxgEiGV08V finished in 5.839 seconds[0m
+[2m2025-09-05T03:21:18.216933Z[0m [[32m[1minfo     [0m] [1m[Rwj2o3K9zi9::process] Processing context for session WxgEiGV08V finished in 5.854 seconds[0m
+[2m2025-09-05T03:21:47.389305Z[0m [[32m[1minfo     [0m] [1m[R6IGdEh2QCJ::process] Processing context for session WxgEiGV08V finished in 5.543 seconds[0m
+[2m2025-09-05T03:22:06.546359Z[0m [[32m[1minfo     [0m] [1m[RK20cY0rAhR::process] Processing context for session WxgEiGV08V finished in 5.88 seconds[0m
+[2m2025-09-05T03:22:25.247882Z[0m [[32m[1minfo     [0m] [1m[RXtIjtdM6ZH::process] Processing context for session WxgEiGV08V finished in 7.737 seconds[0m
+[2m2025-09-05T03:22:42.194057Z[0m [[32m[1minfo     [0m] [1m[RPNupfX2dUA::process] Processing context for session WxgEiGV08V finished in 12.254 seconds[0m
+[2m2025-09-05T03:23:13.454511Z[0m [[32m[1minfo     [0m] [1m[RbyayNI4glm::process] Processing context for session bR2VqPsJGO finished in 6.112 seconds[0m
+[2m2025-09-05T03:40:12.802655Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Cancelling all remaining tasks (2)[0m
+[2m2025-09-05T03:40:12.804544Z[0m [[33m[1mwarning  [0m] [1m[RlWEc3SrhHA] HTTP Request: GET /sessions/bR2VqPsJGO/events cancelled after 58.996 seconds[0m
+[2m2025-09-05T03:40:12.805550Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Cancelling all remaining tasks (1)[0m
+[2m2025-09-05T03:40:12.806199Z[0m [[32m[1minfo     [0m] [1m[<main>] BackgroundTaskService: Shutting down[0m
