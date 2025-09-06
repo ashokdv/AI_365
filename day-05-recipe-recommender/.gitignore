@@ -1,0 +1,5 @@
+*.pdf
+*.sqlite3
+*.json
+*.bin
+**/test*.py
